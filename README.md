@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/SRINATH-sketch/Leetcode/tree/master/1652-defuse-the-bomb) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
