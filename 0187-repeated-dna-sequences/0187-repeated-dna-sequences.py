@@ -1,12 +1,14 @@
 class Solution:
     def findRepeatedDnaSequences(self, s: str) -> List[str]:
-        arr=set()
-        result=set()
+        dict={}
+        result=[]
         for i in range(len(s)-10+1):
             check=s[i:i+10]
-            if(check in arr):
-                result.add(check)
+            if(check in dict):
+                dict[check]+=1
             else:
-                arr.add(check)
+                dict[check]=1
+            if(dict[check]==2):
+                result.append(check)
 
-        return list(result)
+        return result
