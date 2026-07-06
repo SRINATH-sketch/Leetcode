@@ -2,16 +2,16 @@ class Solution:
     def uniquePathsIII(self, grid: List[List[int]]) -> int:
         def path(i,j,solution,remaining):
             nonlocal c
-            if(i<0 or j<0 or i>len(grid)-1 or j>len(grid[0])-1 or solution[i][j]==-1 or grid[i][j]==-1):
+            if(i<0 or j<0 or i>=len(grid) or j>=len(grid[0]) or solution[i][j]==-1 or grid[i][j]==-1):
                 return
 
             remaining-=1
         
             if(grid[i][j]==2):
-                solution[i][j]=-1
+                # solution[i][j]=-1
                 if remaining==0:
                     c+=1
-                solution[i][j]=0
+                # solution[i][j]=0
                 return
 
             solution[i][j]=-1
