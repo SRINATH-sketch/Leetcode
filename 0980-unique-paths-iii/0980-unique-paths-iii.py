@@ -8,10 +8,10 @@ class Solution:
             remaining-=1
         
             if(grid[i][j]==2):
-                # solution[i][j]=-1
+                solution[i][j]=-1
                 if remaining==0:
                     c+=1
-                # solution[i][j]=0
+                solution[i][j]=0
                 return
 
             solution[i][j]=-1
