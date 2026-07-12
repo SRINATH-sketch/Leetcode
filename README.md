@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SRINATH-sketch/Leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/SRINATH-sketch/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0078-subsets) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SRINATH-sketch/Leetcode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SRINATH-sketch/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
