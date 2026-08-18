@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1652-defuse-the-bomb](https://github.com/SRINATH-sketch/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
