@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SRINATH-sketch/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0904-fruit-into-baskets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -96,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
