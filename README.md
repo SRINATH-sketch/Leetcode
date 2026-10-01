@@ -196,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SRINATH-sketch/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
