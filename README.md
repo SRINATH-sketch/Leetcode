@@ -213,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1084-sales-analysis-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/SRINATH-sketch/Leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/SRINATH-sketch/Leetcode/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
