@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SRINATH-sketch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRINATH-sketch/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/SRINATH-sketch/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/SRINATH-sketch/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/SRINATH-sketch/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRINATH-sketch/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/SRINATH-sketch/Leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/SRINATH-sketch/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SRINATH-sketch/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRINATH-sketch/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
