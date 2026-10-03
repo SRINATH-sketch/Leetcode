@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/SRINATH-sketch/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2315-count-asterisks](https://github.com/SRINATH-sketch/Leetcode/tree/master/2315-count-asterisks) |
 ## Bit Manipulation
 |  |
 | ------- |
