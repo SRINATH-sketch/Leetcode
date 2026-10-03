@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SRINATH-sketch/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/SRINATH-sketch/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SRINATH-sketch/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SRINATH-sketch/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SRINATH-sketch/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/SRINATH-sketch/Leetcode/tree/master/2315-count-asterisks) |
+| [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/SRINATH-sketch/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SRINATH-sketch/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SRINATH-sketch/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
