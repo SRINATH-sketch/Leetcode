@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/SRINATH-sketch/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1436-destination-city](https://github.com/SRINATH-sketch/Leetcode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/SRINATH-sketch/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
