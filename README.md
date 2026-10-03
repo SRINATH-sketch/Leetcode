@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/SRINATH-sketch/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/SRINATH-sketch/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1859-sorting-the-sentence](https://github.com/SRINATH-sketch/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/SRINATH-sketch/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
 | ------- |
