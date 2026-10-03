@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/SRINATH-sketch/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/SRINATH-sketch/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRINATH-sketch/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/SRINATH-sketch/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRINATH-sketch/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRINATH-sketch/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRINATH-sketch/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRINATH-sketch/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
