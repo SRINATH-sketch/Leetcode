@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1313-decompress-run-length-encoded-list](https://github.com/SRINATH-sketch/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SRINATH-sketch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/SRINATH-sketch/Leetcode/tree/master/1436-destination-city) |
