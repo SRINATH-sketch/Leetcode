@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/SRINATH-sketch/Leetcode/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
