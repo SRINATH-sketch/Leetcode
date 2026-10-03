@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/SRINATH-sketch/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/SRINATH-sketch/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/SRINATH-sketch/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SRINATH-sketch/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1436-destination-city](https://github.com/SRINATH-sketch/Leetcode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/SRINATH-sketch/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -340,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
