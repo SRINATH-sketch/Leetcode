@@ -4,6 +4,7 @@ class Solution:
         count=0
         for i in range(n):
             for j in range(n):
-                if(i!=j and (nums[i]+nums[j])<target):
-                    count+=1
-        return count//2
+                if(i<j):
+                    if(i!=j and (nums[i]+nums[j])<target):
+                        count+=1
+        return count
