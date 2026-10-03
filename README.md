@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/SRINATH-sketch/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1859-sorting-the-sentence](https://github.com/SRINATH-sketch/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SRINATH-sketch/Leetcode/tree/master/0016-3sum-closest) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SRINATH-sketch/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1859-sorting-the-sentence](https://github.com/SRINATH-sketch/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRINATH-sketch/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/SRINATH-sketch/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
