@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/SRINATH-sketch/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SRINATH-sketch/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SRINATH-sketch/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SRINATH-sketch/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Rolling Hash
 |  |
 | ------- |
