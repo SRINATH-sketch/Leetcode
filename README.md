@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/SRINATH-sketch/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2278-percentage-of-letter-in-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
