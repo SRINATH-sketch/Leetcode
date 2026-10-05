@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SRINATH-sketch/Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [0804-unique-morse-code-words](https://github.com/SRINATH-sketch/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -252,18 +254,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
