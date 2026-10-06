@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SRINATH-sketch/Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
