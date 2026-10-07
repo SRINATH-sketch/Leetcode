@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
 | [0804-unique-morse-code-words](https://github.com/SRINATH-sketch/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0934-shortest-bridge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/SRINATH-sketch/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/SRINATH-sketch/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/SRINATH-sketch/Leetcode/tree/master/2540-minimum-common-value) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SRINATH-sketch/Leetcode/tree/master/0016-3sum-closest) |
+| [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SRINATH-sketch/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1859-sorting-the-sentence](https://github.com/SRINATH-sketch/Leetcode/tree/master/1859-sorting-the-sentence) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRINATH-sketch/Leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SRINATH-sketch/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SRINATH-sketch/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -417,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
