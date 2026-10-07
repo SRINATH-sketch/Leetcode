@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRINATH-sketch/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRINATH-sketch/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
