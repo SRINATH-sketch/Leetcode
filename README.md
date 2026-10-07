@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SRINATH-sketch/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0078-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SRINATH-sketch/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/SRINATH-sketch/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
+| [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SRINATH-sketch/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SRINATH-sketch/Leetcode/tree/master/0994-rotting-oranges) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SRINATH-sketch/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
