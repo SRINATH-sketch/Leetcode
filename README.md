@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/SRINATH-sketch/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0228-summary-ranges](https://github.com/SRINATH-sketch/Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/SRINATH-sketch/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SRINATH-sketch/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Memoization
