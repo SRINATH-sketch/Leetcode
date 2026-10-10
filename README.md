@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SRINATH-sketch/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SRINATH-sketch/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/SRINATH-sketch/Leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0130-surrounded-regions) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SRINATH-sketch/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0202-happy-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SRINATH-sketch/Leetcode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
