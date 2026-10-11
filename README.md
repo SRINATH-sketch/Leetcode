@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRINATH-sketch/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/SRINATH-sketch/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/SRINATH-sketch/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/SRINATH-sketch/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SRINATH-sketch/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/SRINATH-sketch/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Two Pointers
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SRINATH-sketch/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SRINATH-sketch/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/SRINATH-sketch/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
