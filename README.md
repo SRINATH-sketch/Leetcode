@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SRINATH-sketch/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/SRINATH-sketch/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SRINATH-sketch/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SRINATH-sketch/Leetcode/tree/master/0016-3sum-closest) |
+| [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SRINATH-sketch/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRINATH-sketch/Leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SRINATH-sketch/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -398,11 +402,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRINATH-sketch/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/SRINATH-sketch/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/SRINATH-sketch/Leetcode/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
