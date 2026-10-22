@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SRINATH-sketch/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/SRINATH-sketch/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2059-minimum-operations-to-convert-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/SRINATH-sketch/Leetcode/tree/master/2540-minimum-common-value) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRINATH-sketch/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SRINATH-sketch/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2059-minimum-operations-to-convert-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 ## Union-Find
 |  |
 | ------- |
