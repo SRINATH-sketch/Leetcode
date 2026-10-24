@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SRINATH-sketch/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SRINATH-sketch/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/SRINATH-sketch/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/SRINATH-sketch/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0551-student-attendance-record-i](https://github.com/SRINATH-sketch/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/0133-clone-graph) |
 | [0365-water-and-jug-problem](https://github.com/SRINATH-sketch/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
 ## Directed Acyclic Graph
 |  |
