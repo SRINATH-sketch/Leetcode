@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/SRINATH-sketch/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SRINATH-sketch/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0934-shortest-bridge) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRINATH-sketch/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
+| [0785-is-graph-bipartite](https://github.com/SRINATH-sketch/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SRINATH-sketch/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SRINATH-sketch/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SRINATH-sketch/Leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/SRINATH-sketch/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SRINATH-sketch/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/SRINATH-sketch/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/SRINATH-sketch/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SRINATH-sketch/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/SRINATH-sketch/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SRINATH-sketch/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -539,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SRINATH-sketch/Leetcode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SRINATH-sketch/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SRINATH-sketch/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
