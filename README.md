@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/SRINATH-sketch/Leetcode/tree/master/0752-open-the-lock) |
 | [0804-unique-morse-code-words](https://github.com/SRINATH-sketch/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SRINATH-sketch/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0877-stone-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0934-shortest-bridge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0934-shortest-bridge) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/SRINATH-sketch/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/SRINATH-sketch/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SRINATH-sketch/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/1323-maximum-69-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/SRINATH-sketch/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0877-stone-game) |
 | [1162-as-far-from-land-as-possible](https://github.com/SRINATH-sketch/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Memoization
 |  |
@@ -572,10 +575,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -584,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0292-nim-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
