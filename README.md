@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SRINATH-sketch/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SRINATH-sketch/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/SRINATH-sketch/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0934-shortest-bridge](https://github.com/SRINATH-sketch/Leetcode/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/SRINATH-sketch/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/SRINATH-sketch/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -554,10 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SRINATH-sketch/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0872-leaf-similar-trees](https://github.com/SRINATH-sketch/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SRINATH-sketch/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0872-leaf-similar-trees](https://github.com/SRINATH-sketch/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Topological Sort
 |  |
 | ------- |
