@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SRINATH-sketch/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2365-task-scheduler-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/2365-task-scheduler-ii) |
+| [2405-optimal-partition-of-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/SRINATH-sketch/Leetcode/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SRINATH-sketch/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRINATH-sketch/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/SRINATH-sketch/Leetcode/tree/master/2315-count-asterisks) |
+| [2405-optimal-partition-of-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Bit Manipulation
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SRINATH-sketch/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SRINATH-sketch/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2405-optimal-partition-of-string](https://github.com/SRINATH-sketch/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SRINATH-sketch/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
