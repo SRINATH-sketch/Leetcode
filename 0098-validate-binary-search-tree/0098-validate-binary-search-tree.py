@@ -10,7 +10,7 @@ class Solution:
             if node is None:
                 return True
 
-            if(node.val<=low or node.val>=high):
+            if node.val<=low or node.val>=high:
                 return False
 
             return bfs(node.left,low,node.val) and bfs(node.right,node.val,high)
