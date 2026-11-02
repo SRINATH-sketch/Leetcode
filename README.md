@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SRINATH-sketch/Leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SRINATH-sketch/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SRINATH-sketch/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/SRINATH-sketch/Leetcode/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/SRINATH-sketch/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/SRINATH-sketch/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/SRINATH-sketch/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SRINATH-sketch/Leetcode/tree/master/0016-3sum-closest) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/SRINATH-sketch/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/SRINATH-sketch/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SRINATH-sketch/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
