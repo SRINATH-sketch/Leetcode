@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/SRINATH-sketch/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/SRINATH-sketch/Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SRINATH-sketch/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/SRINATH-sketch/Leetcode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/SRINATH-sketch/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0980-unique-paths-iii) |
