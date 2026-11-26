@@ -18,7 +18,7 @@ class Solution:
                 nc=dc+col
                 if(0<=nr<n and 0<=nc<m):
                     if dfs(nr,nc,index+1):
-                        board[row][col]=temp
+                        
                         return True
 
             board[row][col]=temp
