@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SRINATH-sketch/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SRINATH-sketch/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SRINATH-sketch/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SRINATH-sketch/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SRINATH-sketch/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/SRINATH-sketch/Leetcode/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/SRINATH-sketch/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/SRINATH-sketch/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/SRINATH-sketch/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SRINATH-sketch/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/SRINATH-sketch/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SRINATH-sketch/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SRINATH-sketch/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SRINATH-sketch/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/SRINATH-sketch/Leetcode/tree/master/0401-binary-watch) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SRINATH-sketch/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SRINATH-sketch/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SRINATH-sketch/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SRINATH-sketch/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SRINATH-sketch/Leetcode/tree/master/0463-island-perimeter) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SRINATH-sketch/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SRINATH-sketch/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/SRINATH-sketch/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/SRINATH-sketch/Leetcode/tree/master/0133-clone-graph) |
